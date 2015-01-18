@@ -10,7 +10,7 @@ This project uses Jasmine and performs the following tests
 1)RSS feed  
  - Checks if allFeeds is defined and is not empty.  
  - Checks if allFeeds object has a URL defined and it is not empty.  
- - Checks if allFeeds object has a name defined and it is not .  
+ - Checks if allFeeds object has a name defined and it is not empty.  
  
 2) The menu
  - Ensures that the menu is hidden by default.  
