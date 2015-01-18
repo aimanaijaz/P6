@@ -16,3 +16,9 @@ This project uses Jasmine and performs the following tests
  - Ensures that the menu is hidden by default.  
  - Ensures that if the menu icon is clicked once the menu appears.  
  - Ensures that if the menu icon is clicked again the menu disappears.  
+ 
+3) Intial entries  
+ - Ensures that there is atleast a single .entry within the .feed container.  
+ 
+4) New feed Selection  
+ - Ensures that the content actually changes when a new feed is loaded.  
