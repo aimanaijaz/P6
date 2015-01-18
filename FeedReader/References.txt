@@ -1,0 +1,6 @@
+The following references have been used for this project
+
+-http://jasmine.github.io/2.1/introduction.html
+-http://jsperf.com/jquery-class-vs-getelementsbyclassname-class/9
+-http://www.htmlgoodies.com/beyond/javascript/testing-javascript-using-the-jasmine-framework.html
+-https://gist.github.com/davilious/9503539

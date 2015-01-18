@@ -1,0 +1,20 @@
+Feedreader
+
+To run this application you can
+- Download the zip file from ---  extract it and open the index.html file in a web browser that supports HTML5 and Javascript
+- Alternatively you can also click on this link to test the site.---
+
+This project uses Jasmine and performs the following tests
+1)RSS feed
+- Checks if allFeeds is defined and is not empty.
+- Checks if allFeeds object has a URL defined and it is not empty.
+- Checks if allFeeds object has a name defined and it is not .
+2) The menu
+- Ensures that the menu is hidden by default
+- Ensures that if the menu icon is clicked once the menu appears.
+- Ensures that if the menu icon is clicked again the menu disappears.
+3) Intial entires
+- Ensures that there atleast a single .entry within the .feed container.
+4) New feed Selection
+- Ensures that the content actually changes when a new feed is loaded.
+
