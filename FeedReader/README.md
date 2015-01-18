@@ -11,12 +11,12 @@ This project uses Jasmine and performs the following tests
 - Checks if allFeeds is defined and is not empty.  
 - Checks if allFeeds object has a URL defined and it is not empty.  
 - Checks if allFeeds object has a name defined and it is not .    
-2) The menu  
+2)The menu  
 - Ensures that the menu is hidden by default  
 - Ensures that if the menu icon is clicked once the menu appears.  
 - Ensures that if the menu icon is clicked again the menu disappears.   
-3) Intial entires  
+3)Intial entires  
 - Ensures that there atleast a single .entry within the .feed container.  
-4) New feed Selection  
+4)New feed Selection  
 - Ensures that the content actually changes when a new feed is loaded.  
 
