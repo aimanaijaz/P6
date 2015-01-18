@@ -5,9 +5,9 @@ To run this application you can
 - Extract it and open the index.html file in a web browser that supports HTML5 and Javascript  
 - Alternatively you can also click on this link to test the site http://aimanaijaz.github.io/P6/FeedReader/  
 
-This project uses Jasmine and performs the following tests  
-1)RSS feed  
-- Checks if allFeeds is defined and is not empty.  
+This project uses Jasmine and performs the following tests
+  
+1)RSS feed  - Checks if allFeeds is defined and is not empty.  
 - Checks if allFeeds object has a URL defined and it is not empty.  
 - Checks if allFeeds object has a name defined and it is not .  
 2) The menu  
