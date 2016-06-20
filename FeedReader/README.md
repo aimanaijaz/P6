@@ -1,9 +1,9 @@
 Feedreader
 
 To run this application you can  
-- Download the zip file from https://github.com/aimanaijaz/P6  
+- Download the zip file from https://github.com/aimanaijaz/feedreader-testing  
 - Extract it and open the index.html file in a web browser that supports HTML5 and Javascript  
-- Alternatively you can also click on this link to test the site http://aimanaijaz.github.io/P6/FeedReader/  
+- Alternatively you can also click on this link to test the site http://aimanaijaz.github.io/feedreader-testing/FeedReader/  
 
 This project uses Jasmine and performs the following tests
   
